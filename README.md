@@ -2,5 +2,5 @@
 A simple client-server socket communication, written in C++ <br/>
 Just clone the repo and compile this ! <br/> <br/>
 
-``g++ server.cpp`` <br/>
-``g++ client.cpp`` <br/>
+``g++ -std=c++11 server.cpp`` <br/>
+``g++ -std=c++11 client.cpp`` <br/>
